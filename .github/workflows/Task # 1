@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class Radius{
+public static void main(string[] args){
+Scanner sc=new Scanner(System.in);      
+System.out.println("Enter the radius of circle);
+double radius= sc.next double();
+double area = 3.1457*radius* radius;
+System.out.println("Radius:"+radius);
+System.out.println("Area:"+ area);
+}
+}
